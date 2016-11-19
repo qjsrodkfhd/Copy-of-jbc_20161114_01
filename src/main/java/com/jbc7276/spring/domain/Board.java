@@ -14,5 +14,13 @@ public class Board {
 	public Board() {
 		
 	}
-
+	
+	public Board(int bno, String title, String content, String writer){
+		
+		this.bno = bno;
+		this.title = title;
+		this.content = content;
+		this.writer = writer;
+		 
+	}
 }
