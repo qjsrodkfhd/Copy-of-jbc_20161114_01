@@ -2,13 +2,9 @@ package com.jbc7276.spring.dao;
 
 public class Dao {
 
-	public void TestDao(){
+		//댓글 추가
+		public void create() {
+			System.out.println("qweqweqwe");
+		};
 		
-		
-	}
-	
-	public void TestDao2(){
-		
-		
-	}
 }
